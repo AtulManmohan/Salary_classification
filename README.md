@@ -1,4 +1,4 @@
-Project - Salary Classification of Data Scientists
+**Project - Salary Classification of Data Scientists**
 Course-Introduction to Data Science and Analytics
 Background:
 The dataset provided (mutiplechoiceResponses.csv) contains the survey results provided by Kaggle. The survey results from 23860 participants are shown in 395 columns, representing survey questions. Not all questions are answered by each participant, and responses contain various data types. In the dataset for this project , column Q9 “What is your current yearly compensation (approximate $USD)?” contains the ordinary categorical target variable. Rows with null values or undisclosed salaries have been dropped.
